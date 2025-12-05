@@ -1,0 +1,16 @@
+table {
+            border-collapse: collapse;
+            margin: 20px;
+            width: 400px;
+        }
+        
+        td {
+            border: 2px solid black;
+            padding: 15px;
+            text-align: center;
+        }
+        
+        .table1 { background: #ffe6e6; }
+        .table2 { background: #e6ffe6; }
+        .table3 { background: #e6e6ff; }
+        .table4 { background: #ffffe6; }
